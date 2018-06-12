@@ -57,7 +57,7 @@ Firstly I did preprocessing: <br>
 12. Split dataset into 80% train and 20% test subsets in a straitified fashion.
 
 
-Then I applied machine learning algorithms such as logistic regression,SVM ,adaboost,random forest on  selected features to train models to predict correct mutation status.<br>
+Then I applied machine learning algorithms such as `logistic regression`,`SVM `,`adaboost`,`random forest` on  selected features to train models to predict correct mutation status.<br>
 
 
 
